@@ -19,7 +19,7 @@
 
 This boilerplate comes with different branches with different integrations. Currently there are the following branches:
 
-- [`master`: Nuxt 3 with ESLint, Prettier and Tailwind CSS](https://github.com/oezkancodes/thenextbit_nuxt-boilerplate/tree/storyblok)
+- [`master`: Nuxt 3 with ESLint, Prettier and Tailwind CSS](https://github.com/oezkancodes/thenextbit_nuxt-boilerplate/tree/master)
 - [`storyblok`: Nuxt 3 with Storyblok, ESLint, Prettier and Tailwind CSS](https://github.com/oezkancodes/thenextbit_nuxt-boilerplate/tree/storyblok)
 
 ## Integrations
