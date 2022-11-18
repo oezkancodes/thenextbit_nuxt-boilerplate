@@ -8,6 +8,7 @@
   - [Integrations](#integrations)
     - [ESLint & Prettier](#eslint--prettier)
     - [Tailwind CSS](#tailwind-css)
+    - [Storyblok](#storyblok)
   - [Setup](#setup)
   - [Development Server](#development-server)
   - [Production](#production)
@@ -30,6 +31,12 @@ This boilerplate comes with different branches with different integrations. Curr
 ### Tailwind CSS
 
 This boilerplate comes with the [Nuxt Tailwind](https://tailwindcss.nuxt.dev/) module `@nuxtjs/tailwindcss`. You can configure the module ooptions in [`./config/tailwindcss.config.ts`](./config/tailwindcss.config.ts). Also, the Prettier plugin `prettier-plugin-tailwindcss` is installed for automatic class sorting.
+
+### Storyblok
+
+Storyblok is intergrated with the [Storyblok Nuxt module](https://github.com/storyblok/storyblok-nuxt) `@storyblok/nuxt`. The module config is located at [`./config/storyblok.config.ts`](./config/storyblok.config.ts).
+
+Create `.env` in to the root directory and put your access token from your Storyblok project settings as `STORYBLOK_ACCESS_TOKEN=<your-token>`.
 
 ## Setup
 
