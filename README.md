@@ -26,7 +26,7 @@ This boilerplate comes with different branches with different integrations. Curr
 
 ### ESLint & Prettier
 
-[ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) are fully integrated in this boilerplate for linting, styling and automatically fixing problems. For ESLint to work with Nuxt (and Vite), the Vite plugin `vite-plugin-eslint` is installed. You can configure ESLint in [./.eslintrc](./.eslintrc) and Prettier in [./.prettierrc](./.prettierrc)
+[ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) are fully integrated in this boilerplate for linting, styling and automatically fixing problems. For ESLint to work with Nuxt (and Vite), the Vite plugin `vite-plugin-eslint` is installed. You can configure ESLint in [`./.eslintrc`](./.eslintrc) and Prettier in [`./.prettierrc`](./.prettierrc).
 
 ### Tailwind CSS
 
