@@ -3,7 +3,6 @@
 <details>
   <summary>Table of contents</summary>
   
-- [Nuxt 3 Boilerplate](#nuxt-3-boilerplate)
   - [Branches](#branches)
   - [Integrations](#integrations)
     - [ESLint & Prettier](#eslint--prettier)
@@ -30,7 +29,7 @@ This boilerplate comes with different branches with different integrations. Curr
 
 ### Tailwind CSS
 
-This boilerplate comes with the [Nuxt Tailwind](https://tailwindcss.nuxt.dev/) module `@nuxtjs/tailwindcss`. You can configure the module ooptions in [`./config/tailwindcss.config.ts`](./config/tailwindcss.config.ts). Also, the Prettier plugin `prettier-plugin-tailwindcss` is installed for automatic class sorting.
+This boilerplate comes with the [Nuxt Tailwind module](https://tailwindcss.nuxt.dev/) `@nuxtjs/tailwindcss`. You can configure the module options in [`./config/tailwindcss.config.ts`](./config/tailwindcss.config.ts). Also, the Prettier plugin `prettier-plugin-tailwindcss` is installed for automatic class sorting.
 
 ### Storyblok
 
