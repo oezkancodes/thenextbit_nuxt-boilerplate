@@ -1,3 +1,5 @@
+<img src="./public/nuxt.svg" height="50" width="50" alt="Nuxt" />&nbsp;&nbsp;<img src="./public/tailwindcss.svg" height="50" width="50" alt="Tailwind CSS" />&nbsp;&nbsp;<img src="./public/eslint.svg" height="50" width="50" class="ESLint" />&nbsp;&nbsp;<img src="./public/prettier.svg" height="50" width="50" class="Prettier" />
+
 # Nuxt 3 Boilerplate
 
 <details>
