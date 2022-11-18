@@ -1,7 +1,4 @@
-<img src="./public/nuxt.svg" height="50" width="50" alt="Nuxt" />
-<img src="./public/tailwindcss.svg" height="50" width="50" alt="Tailwind CSS" />
-<img src="./public/eslint.svg" height="50" width="50" class="ESLint" />
-<img src="./public/prettier.svg" height="50" width="50" class="Prettier" />
+<img style="margin-right: 10px;" src="./public/nuxt.svg" height="50" width="50" alt="Nuxt" /><img style="margin-right: 10px;" src="./public/tailwindcss.svg" height="50" width="50" alt="Tailwind CSS" /><img style="margin-right: 10px;" src="./public/eslint.svg" height="50" width="50" class="ESLint" /><img src="./public/prettier.svg" height="50" width="50" class="Prettier" />
 
 # Nuxt 3 Boilerplate
 
